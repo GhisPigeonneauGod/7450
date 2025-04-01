@@ -1,10 +1,12 @@
 # 7450
 Motrix Master Version 1.40
- * Copyright (c) 2019 Patrik Laszlo / P3X / Corifeus and contributors.
+7450 Part1 
+see PaGhislainPigeonnea-God\7452 for the Part 2
+ * Copyright (c) 2019 Patrik Laszlo / P3X / Confiuse and contributors.
  *
  * MIT License
  *
- * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * Permission is here by granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
