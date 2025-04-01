@@ -1,7 +1,7 @@
 # 7450
 Motrix Master Version 1.40
 7450 Part1 
-see PaGhislainPigeonnea-God\7452 for the Part 2
+see GhislainPigeonnea-God\7452 for the Part 2
  * Copyright (c) 2019 Patrik Laszlo / P3X / Confiuse and contributors.
  *
  * MIT License
@@ -29,4 +29,4 @@ code, code, the rightpoint, rightclick download zip
 or athe adress
 https://pige.freeboxos.fr:27502/share/L_8sI5Nx7B9I1u4h/Motrix-master%20140a.zip 
 for the purpose
-djghis.free.fr
+http://djghis.free.fr
